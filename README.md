@@ -1,3 +1,4 @@
 # Physical-Health-and-Mental-Health
 
-## Tech Stack: R, ggplot, R-studio, R markdown
+## Programming Language: R, 
+## Libraries: ggplot-2, shiny, plotly, rmarkdown, dplyr, lattice
